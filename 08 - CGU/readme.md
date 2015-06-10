@@ -1,0 +1,7 @@
+Quand vous offrez un service à une clientèle, vous devez légalement l’informer des conditions et modalités de votre offre. Ces informations sont contenues dans un document dénommé habituellement conditions générales d’utilisation, de vente ou de service, selon les cas.
+
+Il existe cependant autant de services et de modalités que de projets d’entreprises et il est difficile d’établir un seul et même modèle de conditions générales. Votre service est unique et cela doit se refléter dans vos conditions générales, nécessairement spécifiques. De plus, la loi vous oblige parfois à contracter selon des règles particulières selon votre secteur d’activité et les clients à qui vous vous adressez. Comme vous le savez certainement, ce ne sont pas les mêmes règles quand on contracte entre professionnels et quand on contracte entre un professionnel et un consommateur.
+
+C’est pourquoi, nous vous proposons ici un modèle qui peut alimenter votre réflexion et constituer un « minimum vital » pour commencer à établir une bonne base juridique entre vous et vos utilisateurs, lorsque vous offrez vos services via un site internet. A vous de voir ensuite…
+
+N’oubliez jamais : de bonnes conditions générales, ce sont d’abord des conditions générales qui vous ressemblent !
