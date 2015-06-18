@@ -86,7 +86,7 @@ La cession prévue aux articles 1.1 et 1.2 des présentes est consentie à titre
 
 [ou]
 
-En contrepartie de la cession des droits d'auteur sur les Créations prévue à l'article 1 et sur présentation d'une note d'auteur régulièrement établie, le Cessionnaire paye au Cédant, à la signature des présentes, un prix ferme, global et définitif d'un montant de XXX €**[mentionner le prix en chiffres et en lettres]**.Ce prix est fixé de façon forfaitaire conformément conformément à l'article L.131-4 du Code de la propriété intellectuelle (dans le cadre des dérogations prévues aux alinéas 1 à 4 dudit article, selon le contexte des exploitations effectuées). Il est soumis à toutes cotisations Agessa et taxes applicables.
+En contrepartie de la cession des droits d'auteur sur les Créations prévue à l'article 1 et sur présentation d'une note d'auteur régulièrement établie, le Cessionnaire paye au Cédant, à la signature des présentes, un prix ferme, global et définitif d'un montant de XXX €**[mentionner le prix en chiffres et en lettres]**.Ce prix est fixé de façon forfaitaire conformément à l'article L.131-4 du Code de la propriété intellectuelle (dans le cadre des dérogations prévues aux alinéas 1 à 4 dudit article, selon le contexte des exploitations effectuées). Il est soumis à toutes cotisations Agessa et taxes applicables.
 
 1. **Loi applicable et juridiction**
 
