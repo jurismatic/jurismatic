@@ -91,7 +91,7 @@ Le Salarié déclare avoir pris connaissance de la présente clause de mobilité
 
   1. La rémunération mensuelle brute du Salarié est fixée à **[montant en chiffres et en lettres]** euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
 
-  1. Cette rémunération inclut la cession des droits patrimoniaux d'auteur du Salarié prévus à l'article 12 des présentes, dont le prix de cession est contractuellement fixé à 10 % de la dite rémunération.
+  1. Cette rémunération inclut la cession des droits patrimoniaux d'auteur du Salarié prévus à l'article 10.2 des présentes, dont le prix de cession est contractuellement fixé à 10 % de la dite rémunération.
 
 Ce prix de cession est évalué forfaitairement conformément aux dispositions de l'article L131-4 du Code de la propriété intellectuelle (dans le cadre des dérogations prévues aux alinéas 1 à 4 dudit article, selon le contexte des exploitations effectuées).
 
