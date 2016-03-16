@@ -14,7 +14,7 @@ Elles peuvent être complétées, le cas échéant, par des conditions d'utilisa
 1.
 ## Exploitant des Services
 
-Les Services sont exploités par lasociété **[dénomination sociale]**, **[forme]** au capital social de **[montant du capital]** euros, immatriculée au RCS de **[ville]** sous le n° **[numéro****] **, dont le siège social est situé** [adresse]**(ci-après : « NomSociété** **»).
+Les Services sont exploités par la société **[dénomination sociale]**, **[forme]** au capital social de **[montant du capital]** euros, immatriculée au RCS de **[ville]** sous le n° **[numéro****] **, dont le siège social est situé** [adresse]**(ci-après : « NomSociété** **»).
 
 **[NomSociété]** peut être contactée aux coordonnées suivantes :
 
