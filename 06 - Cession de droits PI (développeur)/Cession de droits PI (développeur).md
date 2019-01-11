@@ -14,7 +14,7 @@ Exerçant la profession de **[profession]**
 
 Demeurant **[adresse du domicile]**
 
-**Ci-après dénommé(e) le « Cédant  »,**
+**Ci-après dénommé(e) le « Cédant »,**
 
 **D'une part,**
 
@@ -28,7 +28,7 @@ Immatriculée au RCS de **[ville]** sous le numéro **[n° du RCS]**
 
 Dont le siège social est situé **[adresse complète du siège social]**
 
-Représentée par **Monsieur ou Madame** **[Nom et prénom]**en qualité de**[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
+Représentée par **Monsieur ou Madame** **[Nom et prénom]** en qualité de **[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
 
 **Ci-après dénommée le  « Cessionnaire »,**
 
