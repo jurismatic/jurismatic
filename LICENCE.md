@@ -1,6 +1,6 @@
 # LICENSE
 
-## by-nc-sa/3.0/fr
+## by-nc-sa/4.0/fr
 
 Sauf mention contraire, l'ensemble de ces documents est partagé sous une licence [Creative Commons "by-nc-sa/3.0"](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)(fr)
 
